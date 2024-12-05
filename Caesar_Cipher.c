@@ -3,9 +3,9 @@ Name          : Anusree Mohan
 Date          : 05-12-24
 Title         : Caesar Cipher Challenge
 Sample input  : Enter shift value: 3
-				Enter the plaintext message: Hello World
+		Enter the plaintext message: Hello World
 Sample output : Encrypted message: Khoor Zruog
-				Decrypted message: Hello World
+		Decrypted message: Hello World
 */
 
 #include <stdio.h>
